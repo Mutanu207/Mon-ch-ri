@@ -1,0 +1,29 @@
+body{background-color:pink;}
+.header{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    background-image: url("../image.png");
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+   
+    
+}
+h4{
+    font-size: 100px;
+}
+.body{
+    margin-left: 19%;
+    margin-top: 0%;
+    width: 900px;
+    padding-top: 0%;
+    background-color: lightpink;
+    
+    
+}
+.paragraph{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+}
